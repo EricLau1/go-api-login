@@ -30,5 +30,5 @@ Referências:
 
         https://godoc.org/github.com/dgrijalva/jwt-go
 
-
-<p style="text-align:center;">Dev: Eric Lau de Oliveira - 2019 </p>
+<hr />
+<p ><small>Dev: Eric Lau de Oliveira - 2019 </small></p>
