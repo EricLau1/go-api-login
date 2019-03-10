@@ -9,6 +9,8 @@ Download packages:
 
     go get -u github.com/gorilla/handlers
 
+    go get -u github.com/dgrijalva/jwt-go
+
 
 Referências:
     
@@ -24,5 +26,9 @@ Referências:
 
         http://www.gorillatoolkit.org/pkg/handlers
 
+    JWT:
 
-<p>Dev: Eric Lau de Oliveira - 2019 </p>
+        https://godoc.org/github.com/dgrijalva/jwt-go
+
+
+<p style="text-align:center;">Dev: Eric Lau de Oliveira - 2019 </p>
